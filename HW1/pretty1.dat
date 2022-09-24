@@ -1,0 +1,22 @@
+set SCENS = AA ABA ABB BB BAB BAA ;
+set VARS = x1a x2a x3a x1b x2b x3b ya yb;
+
+param bud := 100;
+param ones :=
+	x1a 1
+	x2a 1
+	x3a 1
+	x1b 1
+	x2b 1
+	x3b 1
+	ya 1
+	yb 1;
+	
+param matrix: 
+			x1a		x1b 	x2a 	x2b 	x3a 	x3b	 ya yb :=
+		AA 0.67 	-1 		0.67 	-1 		0		0 	0.4 	-1
+		ABA 0.67 -1 -1 1.5 0.67 -1 0.4 -1
+		ABB 0.67 -1 -1 1.5 -1 1.5 -1 2.5
+		BB -1 1.5 -1 1.5 0 0 -1 2.5
+		BAB -1 1.5 0.67 -1 -1 1.5 -1 2.5
+		BAA -1 1.5 0.67 -1 0.67 -1 0.4 -1;

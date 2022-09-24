@@ -1,0 +1,16 @@
+param change_cost:=50;
+param inventory_cost:=120;
+param p_limit:=4000;
+
+param cost:=
+	1 7400
+	2 7500
+	3 7600
+	4 7800;
+
+param requirement:=
+	1 2400
+	2 2000
+	3 2700
+	4 2500;
+	

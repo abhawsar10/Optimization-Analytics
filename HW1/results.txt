@@ -1,0 +1,16 @@
+:    _objname      _obj        _varname            _var         :=
+1    totalcost   77197500   'production[1]'   2525
+2        .           .      'production[2]'   2525
+3        .           .      'production[3]'   2525
+4        .           .      'production[4]'   2525
+5        .           .      'inventory[0]'    1000
+6        .           .      'inventory[1]'    1125
+7        .           .      'inventory[2]'    1650
+8        .           .      'inventory[3]'    1475
+9        .           .      'inventory[4]'    1500
+10       .           .      'z[1]'               0
+11       .           .      'z[2]'               2.22045e-13
+12       .           .      'z[3]'               0
+13       .           .      'z[4]'               0
+;
+

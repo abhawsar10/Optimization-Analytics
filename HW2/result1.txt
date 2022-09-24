@@ -1,0 +1,5 @@
+: _objname  _obj   _varname _var    :=
+1   profit   180   soldiers   20
+2      .      .    trains     60
+;
+

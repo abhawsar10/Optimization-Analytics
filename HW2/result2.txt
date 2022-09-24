@@ -1,0 +1,10 @@
+:        _objname         _obj         _varname          _var      :=
+1   total_nurses_hired   22.3333   'nurses_hired[1]'   6.33333
+2            .              .      'nurses_hired[2]'   5
+3            .              .      'nurses_hired[3]'   0.333333
+4            .              .      'nurses_hired[4]'   7.33333
+5            .              .      'nurses_hired[5]'   0
+6            .              .      'nurses_hired[6]'   3.33333
+7            .              .      'nurses_hired[7]'   0
+;
+
