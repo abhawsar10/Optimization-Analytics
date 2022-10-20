@@ -1,0 +1,63 @@
+:            _conname         _con.current      _con        _con.slack       :=
+1    total_production                  0       2.10551       -4.54747e-13
+2    'desk_demands[1]'                 0      -4.06234        0
+3    'desk_demands[2]'                 0     -12.0494         0
+4    'desk_demands[3]'                 0     -38.3373         0
+5    'desk_demands[4]'                 0       0            125.537
+6    'desk_demands[5]'                 0       0            157.501
+7    'desk_demands[6]'                 0       0            725.403
+8    'desk_demands[7]'                 0     -88.3629         0
+9    'desk_demands[8]'                 0       0            919.244
+10   'desk_demands[9]'                 0      -3.7655         0
+11   alum_supply                   65000       0          15500
+12   particle_board_supply         60000       0          29100
+13   pine_sheet_supply            175000       0.234495       0
+14   labor_availability           230400       2.59735        0
+15   'production_capacity[1]'          0       0           5225
+16   'production_capacity[2]'      -9600       0           4241.56
+17   'production_capacity[3]'     -19200       0           2264.39
+18   production_quotas1a               0       0           1049.46
+19   production_quotas1b               0       0            901.343
+20   production_quotas2a               0       0            407.367
+21   production_quotas2b               0       0            893.17
+22   production_quotas3a               0       0            493.976
+23   production_quotas3b               0       0            156.293
+24   production_quotas4a               0      12.7924        -1.13687e-13
+25   production_quotas4b               0       0            975.403
+26   production_quotas5a               0       0           1625.67
+27   production_quotas5b               0       0            325.134
+28   production_quotas6a               0       0            650.269
+29   production_quotas6b               0     -31.0932        -2.27374e-13
+;
+:     _con.up     _con.down     :=
+1       496.312     -309.12
+2         0            0
+3         0            0
+4         0            0
+5         0            0
+6         0            0
+7         0            0
+8         0            0
+9         0            0
+10        0            0
+11    1e+20        49500
+12    1e+20        30900
+13   195940       169646
+14   239325       200443
+15        0            0
+16    -5358.44    -1e+20
+17   -16935.6     -1e+20
+18    1e+20        -1049.46
+19      901.343   -1e+20
+20    1e+20         -407.367
+21      893.17    -1e+20
+22    1e+20         -493.976
+23      156.293   -1e+20
+24      114.494     -281.915
+25      975.403   -1e+20
+26    1e+20        -1625.67
+27      325.134   -1e+20
+28    1e+20         -650.269
+29      331.807     -114.905
+;
+

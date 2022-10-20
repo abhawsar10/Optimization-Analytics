@@ -1,0 +1,13 @@
+:      _objname      _obj        _varname          _var      :=
+1    total_profit   612113   'no_of_orders[1]'    750
+2          .           .     'no_of_orders[2]'   1500
+3          .           .     'no_of_orders[3]'    100
+4          .           .     'no_of_orders[4]'    525.537
+5          .           .     'no_of_orders[5]'   1657.5
+6          .           .     'no_of_orders[6]'    825.403
+7          .           .     'no_of_orders[7]'     25
+8          .           .     'no_of_orders[8]'   1069.24
+9          .           .     'no_of_orders[9]'     50
+10         .           .     total_prod          6502.69
+;
+
